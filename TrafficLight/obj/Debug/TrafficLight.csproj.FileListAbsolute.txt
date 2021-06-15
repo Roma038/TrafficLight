@@ -1,0 +1,14 @@
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe.config
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\bin\Debug\TrafficLight.exe
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\bin\Debug\TrafficLight.pdb
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\MainWindow.g.cs
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\App.g.cs
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\TrafficLight_MarkupCompile.cache
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\TrafficLight_MarkupCompile.lref
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\MainWindow.baml
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\TrafficLight.g.resources
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\TrafficLight.Properties.Resources.resources
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.GenerateResource.cache
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\TrafficLight.csproj.CoreCompileInputs.cache
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\TrafficLight.exe
+C:\Users\rgurbanov\source\repos\TrafficLight\TrafficLight\obj\Debug\TrafficLight.pdb
